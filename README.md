@@ -5,7 +5,7 @@
 ##
 
 <div>
-  <p>
+  <p align="center">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Josimar-Souza&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Josimar-Souza&layout=compact&langs_count=7&theme=tokyonight" />
     <img src="https://media1.giphy.com/media/99aniB2u9OztK/200w.webp?cid=ecf05e472a0a7evnxajbpp1114rfm3nk64a39gb5zqrfdpwu&rid=200w.webp&ct=g" />
