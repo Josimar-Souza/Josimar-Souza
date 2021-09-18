@@ -35,5 +35,5 @@
 <h2 align="center">Sobre min</h2>
 <p align="justify">Me chamo Josimar, moro no interior da Bahia e desde pequeno sou apaixonado por tecnologia e programação, hoje estudo desenvolvimento web na Trybe onde estou aprendendo as principais tecnologias para o desenvolvimento de front-end e back-end, bem como trabalho de equipe, colaboração e metodologias ágeis, aprendendo sempre, acredito que com a tecnologia podemos mudar o mundo!</p>
 <div align="center">
-  <img width="250px" src="https://media3.giphy.com/media/YnlDGfCxyOIYTDp86I/200w.webp?cid=ecf05e474ymdawnhbbz3copww674l131u1jqbc0xelwduq6b&rid=200w.webp&ct=g" />
+  <img width="250px" src="https://media4.giphy.com/media/IdmZ0ECRI5OzJZwEpT/giphy.webp?cid=ecf05e47rrgemjd8ghd1lwx7thyesharejqv7gbuw4j838ny&rid=giphy.webp&ct=g" />
 </div>
