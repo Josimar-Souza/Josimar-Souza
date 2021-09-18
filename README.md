@@ -1,16 +1,21 @@
-### Hi there 👋
+## Bem Vindo! Eu sou Josimar Souza
+<div>
+  <a href="https://github.com/Josimar-Souza">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Josimar-Souza&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Josimar-Souza&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
 
-<!--
-**Josimar-Souza/Josimar-Souza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##
 
-Here are some ideas to get you started:
+<div align="center">
+  <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##
+
+<div align="center">
+  <img src="https://media2.giphy.com/media/IcZhFmufozDCij3p22/giphy.gif" />
+</div>
