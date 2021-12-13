@@ -16,7 +16,6 @@
 <div align="center">
   <a href="https://www.linkedin.com/in/josimar-souza-brito/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://pt.stackoverflow.com/users/258024/josimar-souza" target="_blank"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" /></a>
-  <a href="https://twitter.com/Josimmar_" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 </div>
 
 <h2 align="center">Habilidades</h2>
